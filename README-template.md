@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://https://github.com/MarcusBecker6123/FrontendMentor)
+- Live Site URL: [Add live site URL here](https://marcusbecker6123.github.io/FrontendMentor/)
 
 ## My process
 
@@ -43,11 +43,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
+- 
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- 
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -73,7 +71,7 @@ const proudOfThisFunc = () => {
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I have learned to read Figma files and to adapt margin and padding to my css, hope its ok, maybe theres an more elegant way, but it worked for me. I think its good for a beginner.
 
 ### Continued development
 
